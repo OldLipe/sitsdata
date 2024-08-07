@@ -82,32 +82,6 @@ Usage: `data("samples_deforestation")`.
 
 License: Creative Commons Attribution 4.0 International (CC BY 4.0).
 
-### Land Use and Land Cover for Brazilian Cerrado using Landsat-8 OLI
-
-This dataset was produced by a systematic sampling using a grid of 5km x 5km throughout the Cerrado biome, collecting 85,026 samples. The training data labels were extracted from three sources: the pastureland map of 2018 from Pastagem.org, MapBiomas Collection 5 for  2018, and Brazil's National Mapping Agency IBGE maps for 2016-2018. Out of the 85,026 samples, the authors selected those where there was no disagreement between the labels assigned by the three sources. The resulting set had 48,850 points from which the authors extracted time series using a Landsat-8 data cube for year 2018. The distribution of samples for each class is the following: `Annual Crop` (6887), `Cerradao` (4211), `Cerrado` (21,909), `Natural Non Vegetated` (38), `Pasture` (12,894), `Perennial Crop` (68), `Silviculture` (805), `Sugarcane` (1775), and `Water` (263). 
-
-Reference: Simoes, Rolf, Gilberto Camara, Gilberto Queiroz, Felipe Souza, Pedro R. Andrade, Lorena Santos, Alexandre Carvalho, and Karine Ferreira. 2021. "Satellite Image Time Series Analysis for Big Earth Observation Data" Remote Sensing 13, no. 13: 2428. https://doi.org/10.3390/rs13132428.
-
-Example: See chapter ["Validation and accuracy measurements"](https://e-sensing.github.io/sitsbook/validation-and-accuracy-measurements.html) in the `sits` [reference book](https://e-sensing.github.io/sitsbook/index.html)
-
-Usage:`data("samples_cerrado_lc8")`.
-
-License: Creative Commons Attribution 4.0 International (CC BY 4.0).
-
-### LULC Cerrado classification validation
-
-Note: This dataset was recently updated (2024-02-09). There were 749 duplicated entries in the previous version. We corrected the data by removing all duplicated entries. We apologize for any inconvenience. The following description reflects the current version.
-
-This dataset provides samples used for validation of the Cerrado LULC classification (see above). The authors did a systematic sampling of the Cerrado biome using a 20 x 20 km grid with a total of 4653 points. These samples are independent of the training set used in the classification. They were interpreted by five specialists using high resolution images from the same period of the classification. This resulted in 4537 evaluated samples thus distributed: "Annual Crop" (470), "Cerrado" (2647), "Natural Non Vegetated" (44), "Pasture" (1099), "Perennial Crop" (38), "Silviculture" (93), "Sugarcane" (76), and "Water" (70).
-
-Reference: Simoes, Rolf, Gilberto Camara, Gilberto Queiroz, Felipe Souza, Pedro R. Andrade, Lorena Santos, Alexandre Carvalho, and Karine Ferreira. 2021. "Satellite Image Time Series Analysis for Big Earth Observation Data" Remote Sensing 13, no. 13: 2428. https://doi.org/10.3390/rs13132428.
-
-Example: See chapter ["Validation and accuracy measurements"](https://e-sensing.github.io/sitsbook/validation-and-accuracy-measurements.html) in the `sits` [reference book](https://e-sensing.github.io/sitsbook/index.html)
-
-Usage: `data("samples_validation_cerrado")`.
-
-License: Creative Commons Attribution 4.0 International (CC BY 4.0).
-
 
 ## CSV files with samples of land use and land cover
 
