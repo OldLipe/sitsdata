@@ -145,7 +145,8 @@ This dataset is supplementary material for a paper published in the Data in Brie
 Reference: Oldoni, Lucas Volochen; Sanches, Ieda Del’Arco; Picoli, Michelle Cristina A.; Covre, Renan Moreira; Fronza, José Guilherme (2020), “LEM+ dataset: for agricultural remote sensing applications”, Mendeley Data, V1. http://dx.doi.org/10.17632/vz6d7tw87f.1
 
 Usage: `library(arrow)`
-       `read_parquet(system.file("extdata/parquet/field_boundaries_for_brazil_2020.parquet", package = "sitsdata"))`.
+
+`read_parquet(system.file("extdata/parquet/field_boundaries_for_brazil_2020.parquet", package = "sitsdata"))`.
 
 License: Creative Commons Attribution 4.0 International (CC BY 4.0).
 
@@ -156,7 +157,8 @@ This is a dataset released as a part of the Bird’s-Eye project, a collaboratio
 Reference: Bird’s-Eye. (2022). A collaboration between Pula and Tetra Tech under Enabling Crop Analytics at Scale project. Access date: 06 February 2025. https://ecaas.pula.io
 
 Usage: `library(arrow)`
-       `read_parquet(system.file("extdata/parquet/field_boundaries_for_Kenya_2022.parquet", package = "sitsdata"))`.
+
+`read_parquet(system.file("extdata/parquet/field_boundaries_for_Kenya_2022.parquet", package = "sitsdata"))`.
 
 License: GPL-2.0-or-later
 
@@ -167,7 +169,8 @@ This dataset contains field boundaries for smallholder farms in eastern Rwanda. 
 Reference: NASA Harvest. (2021). NASA’s Global Food Supply and Agriculture Consortium. University of Maryland. Access date: 06 February 2025. https://nasaharvest.org
 
 Usage: `library(arrow)`
-       `read_parquet(system.file("extdata/parquet/field_boundaries_for_Rwanda_2021.parquet", package = "sitsdata"))`.
+
+`read_parquet(system.file("extdata/parquet/field_boundaries_for_Rwanda_2021.parquet", package = "sitsdata"))`.
 
 License: Creative Commons Attribution 4.0 International (CC BY 4.0).
 
