@@ -133,6 +133,47 @@ Usage: `read.csv(system.file("extdata/csv/uganda_crops.csv", package = "sitsdata
 
 License: Creative Commons Attribution 4.0 International (CC BY 4.0).
 
+
+## Samples from the Fields of the World (FTW) dataset
+
+[Fields of The World (FTW)](https://source.coop/repositories/kerner-lab/fields-of-the-world/description) is a comprehensive benchmark dataset designed to enhance the development of machine learning models for instance segmentation of agricultural field boundaries. This dataset aims to meet the growing need for accurate and scalable field boundary data for global agricultural monitoring and assessments.
+
+### Field Boundaries for Brazil
+
+This dataset is supplementary material for a paper published in the Data in Brief journal. It provides monthly land use information for 1,854 fields from October 2019 to September 2020, covering Luís Eduardo Magalhães (LEM) and other municipalities in the western region of Bahia state, Brazil. The dataset includes 14 labeled classes ("Beans", "Brachiaria", "Cerrado", "Coffee", "Conversion area", "Corn", "Cotton", "Crotalaria", "Eucalyptus", "Hay", "Millet", "Pasture", "Sorghum", and "Soybean"). The paper describes the methods and procedures applied in data collection.
+
+Reference: Oldoni, Lucas Volochen; Sanches, Ieda Del’Arco; Picoli, Michelle Cristina A.; Covre, Renan Moreira; Fronza, José Guilherme (2020), “LEM+ dataset: for agricultural remote sensing applications”, Mendeley Data, V1. http://dx.doi.org/10.17632/vz6d7tw87f.1
+
+Usage: `library(arrow)`
+
+`read_parquet(system.file("extdata/parquet/field_boundaries_for_brazil_2020.parquet", package = "sitsdata"))`.
+
+License: Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+### Field Boundaries for Kenya
+
+This is a dataset released as a part of the Bird’s-Eye project, a collaboration between Pula and Tetra Tech under the Enabling Crop Analytics at Scale Project. This work, funded by the Bill & Melinda Gates Foundation, is meant to foster the collection of Ground truth georeferenced Agriculture labelled datasets that would improve predictive analytics in smallholder agriculture, through the use of Artificial intelligence and Machine Learning (AI/ML) and satellite imagery. The dataset includes 6 labeled classes ("Beans", "Greengrams", "Irish_Potatoes", "Maize", "None" and "Sorghum").
+
+Reference: Bird’s-Eye. (2022). A collaboration between Pula and Tetra Tech under Enabling Crop Analytics at Scale project. Access date: 06 February 2025. https://ecaas.pula.io
+
+Usage: `library(arrow)`
+
+`read_parquet(system.file("extdata/parquet/field_boundaries_for_Kenya_2022.parquet", package = "sitsdata"))`.
+
+License: GPL-2.0-or-later
+
+### Field Boundaries for Rwanda
+
+This dataset contains field boundaries for smallholder farms in eastern Rwanda. The Nasa Harvest program funded a team of annotators from TaQadam to label Planet imagery for the 2021 growing season for the purpose of conducting the Rwanda Field boundary detection Challenge.
+
+Reference: NASA Harvest. (2021). NASA’s Global Food Supply and Agriculture Consortium. University of Maryland. Access date: 06 February 2025. https://nasaharvest.org
+
+Usage: `library(arrow)`
+
+`read_parquet(system.file("extdata/parquet/field_boundaries_for_Rwanda_2021.parquet", package = "sitsdata"))`.
+
+License: Creative Commons Attribution 4.0 International (CC BY 4.0).
+
 ## Image Data cubes used for classification examples
 
 
