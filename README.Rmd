@@ -61,7 +61,7 @@ The following table presents the metadata of this dataset:
 | **Spectral Indices**     | `EVI`,`NDVI`                                                                                                                                                       |
 | **Land Cover Classes**   | `Dense_Woodland`, `Dunes`, `Fallow_Cotton`, `Millet_Cotton`, `Pasture`, `Rocky_Savanna`, `Savanna`, `Savanna_Parkland`, `Silviculture`,  `Soy_Corn`, `Soy_Cotton`, `Soy_Fallow` |
 | **Reference**            | Lorena Santos, Karine Ferreira, Gilberto Camara, Michelle Picoli, Rolf Simoes, *“Controle de qualidade e redução de ruído de classe de séries temporais de imagens de satélite”*. ISPRS Journal of Photogrammetry and Remote Sensing, vol. 177, pp 75-88, 2021. [Access Link](https://doi.org/10.1016/j.isprsjprs.2021.04.014)                                |
-| **License**              | <img style="display: inline-block; vertical-align: middle; margin-right: 5px;" src="./inst/extdata/licenses/by.png" alt="CC BY Icon" width="70">[Attribution 4.0 International (CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)                                                                                |
+| **License**              | <img style="display: inline-block; vertical-align: middle; margin-right: 5px;" src="./inst/extdata/licenses/by.png" alt="CC BY Icon" width="70">[Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)                                                                                |
 To use this dataset, you can use the following command:
 
 ```r
@@ -109,7 +109,7 @@ The following table presents the metadata of this dataset:
 | **Spectral Indices**     | `EVI`,`NDVI`                                                                                                                                                       |
 | **Land Cover Classes**   | `Cerrado`, `Fallow_Cotton`, `Forest`, `Millet_Cotton`, `Pasture`, `Soy_Corn`, `Soy_Cotton`, `Soy_Fallow`, `Soy_Millet`                         |
 | **Reference**            | Michelle Picoli, Gilberto Camara, et al., *“Big Earth Observation Time Series Analysis for Monitoring Brazilian Agriculturee”*. ISPRS Journal of Photogrammetry and Remote Sensing, 145: 328-339, 2018. [Access Link](https://doi.org/10.1016/j.isprsjprs.2018.08.007)<br>Câmara, Gilberto; Picoli, Michelle, et al., *"Land cover change maps for Mato Grosso State in Brazil: 2001-2017"* (version 3). PANGAEA, 2021. [Access Link](https://doi.org/10.1594/PANGAEA.899706)                                                |
-| **License**              | <img style="display: inline-block; vertical-align: middle; margin-right: 5px;" src="./inst/extdata/licenses/by.png" alt="CC BY Icon" width="70">[Attribution 4.0 International (CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)                                                                                |
+| **License**              | <img style="display: inline-block; vertical-align: middle; margin-right: 5px;" src="./inst/extdata/licenses/by.png" alt="CC BY Icon" width="70">[Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)                                                                                |
 
 To use this dataset, you can use the following command:
 
@@ -159,7 +159,7 @@ The following table presents the metadata of this dataset:
 | **Spectral Indices**     | `EVI`,`NDVI`                                                                                                                                                       |
 | **Land Cover Classes**   | `Cerrado`, `Fallow_Cotton`, `Forest`, `Millet_Cotton`, `Pasture`, `Soy_Corn`, `Soy_Cotton`, `Soy_Fallow`, `Soy_Millet`                         |
 | **Reference**            | Karine Ferreira, Gilberto Queiroz, et al., *“Earth Observation Data Cubes for Brazil: Requirements, Methodology and Products”*. Remote Sensing, 12, 4033, 2020. [Access Link](https://doi.org/10.3390/rs12244033)                                               |
-| **License**              | <img style="display: inline-block; vertical-align: middle; margin-right: 5px;" src="./inst/extdata/licenses/by.png" alt="CC BY Icon" width="70">[Attribution 4.0 International (CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)                                                                                |
+| **License**              | <img style="display: inline-block; vertical-align: middle; margin-right: 5px;" src="./inst/extdata/licenses/by.png" alt="CC BY Icon" width="70">[Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)                                                                                |
 
 To use this dataset, you can use the following command:
 
@@ -209,7 +209,7 @@ The following table presents the metadata of this dataset:
 | **Spectral Indices**     | `NDVI`, `EVI`, `NBR`                                                                                                                                                       |
 | **Land Cover Classes**   | `Burned_Area`, `Forest`, `Highly_Degraded`, `Cleared_Area`                         |
 | **Reference**            | *SITS* [Access Link](https://e-sensing.github.io/sitsbook/index.html)                                               |
-| **License**              | <img style="display: inline-block; vertical-align: middle; margin-right: 5px;" src="./inst/extdata/licenses/by.png" alt="CC BY Icon" width="70">[Attribution 4.0 International (CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)                                                                                |
+| **License**              | <img style="display: inline-block; vertical-align: middle; margin-right: 5px;" src="./inst/extdata/licenses/by.png" alt="CC BY Icon" width="70">[Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)                                                                                |
 
 To use this dataset, you can use the following command:
 
@@ -259,7 +259,7 @@ The following table presents the metadata of this dataset:
 | **Spectral Indices**     | `NDVI`, `EVI`, `NBR`                                                                                                                                                       |
 | **Land Cover Classes**   | `Clear_Cut_Bare_Soil`, `Clear_Cut_Burned_Area`, `Clear_Cut_Vegetation`, `Forest`, `Mountainside_Forest`, `Riparian_Forest`, `Seasonally_Flooded`, `Water`, `Wetland`                                                    |
 | **Reference**            | *SITS* [Access Link](https://e-sensing.github.io/sitsbook/index.html)                                               |
-| **License**              | <img style="display: inline-block; vertical-align: middle; margin-right: 5px;" src="./inst/extdata/licenses/by.png" alt="CC BY Icon" width="70">[Attribution 4.0 International (CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)                                                                                |
+| **License**              | <img style="display: inline-block; vertical-align: middle; margin-right: 5px;" src="./inst/extdata/licenses/by.png" alt="CC BY Icon" width="70">[Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)                                                                                |
 
 To use this dataset, you can use the following command:
 
@@ -309,7 +309,7 @@ The following table presents the metadata of this dataset:
 | **Spectral Bands**       | `B02`, `B8A`, `B11`                                                                                                                                   |
 | **Spectral Indices**     | `NDVI`, `EVI`, `NBR`                                                                                                                                                       |
 | **Reference**            | *SITS* [Access Link](https://e-sensing.github.io/sitsbook/index.html)                                               |
-| **License**              | <img style="display: inline-block; vertical-align: middle; margin-right: 5px;" src="./inst/extdata/licenses/by.png" alt="CC BY Icon" width="70">[Attribution 4.0 International (CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)                                                                                |
+| **License**              | <img style="display: inline-block; vertical-align: middle; margin-right: 5px;" src="./inst/extdata/licenses/by.png" alt="CC BY Icon" width="70">[Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)                                                                                |
 
 To use this dataset, you can use the following command:
 
@@ -341,7 +341,7 @@ The following table presents the metadata of this dataset:
 | **Temporal Resolution**  | `16-day composite`                                                                                                                             |
 | **Spectral Indices**     | `NDVI`, `EVI`                                                                                                                                                       |
 | **Reference**            | *SITS* [Access Link](https://e-sensing.github.io/sitsbook/index.html)                                               |
-| **License**              | <img style="display: inline-block; vertical-align: middle; margin-right: 5px;" src="./inst/extdata/licenses/by.png" alt="CC BY Icon" width="70">[Attribution 4.0 International (CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)                                                                                |
+| **License**              | <img style="display: inline-block; vertical-align: middle; margin-right: 5px;" src="./inst/extdata/licenses/by.png" alt="CC BY Icon" width="70">[Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)                                                                                |
 
 To use this dataset, you can use the following command:
 
