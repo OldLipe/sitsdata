@@ -107,7 +107,7 @@ The following table presents the metadata of this dataset:
 | **Temporal Resolution**  | `16-day composite` (23 data points per year)                                                                                                                                |
 | **Spectral Bands**       | `MIR`, `NIR`                                                                                                                                   |
 | **Spectral Indices**     | `EVI`,`NDVI`                                                                                                                                                       |
-| **Land Cover Classes**   | `Cerrado`, `Fallow_Cotton`, `Forest`, `Millet_Cotton`, `Pasture`, `Soy_Corn`, `Soy_Cotton`, `Soy_Fallow`, `Soy_Millet`                         |
+| **Land Cover Classes**   | `Cerrado`, `Forest`, `Pasture`, `Soy_Corn`, `Soy_Cotton`, `Soy_Fallow`, `Soy_Millet`                         |
 | **Reference**            | Michelle Picoli, Gilberto Camara, et al., *“Big Earth Observation Time Series Analysis for Monitoring Brazilian Agriculturee”*. ISPRS Journal of Photogrammetry and Remote Sensing, 145: 328-339, 2018. [Access Link](https://doi.org/10.1016/j.isprsjprs.2018.08.007)<br>Câmara, Gilberto; Picoli, Michelle, et al., *"Land cover change maps for Mato Grosso State in Brazil: 2001-2017"* (version 3). PANGAEA, 2021. [Access Link](https://doi.org/10.1594/PANGAEA.899706)                                                |
 | **License**              | <img style="display: inline-block; vertical-align: middle; margin-right: 5px;" src="./inst/extdata/licenses/by.png" alt="CC BY Icon" width="70">[Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)                                                                                |
 
@@ -157,7 +157,7 @@ The following table presents the metadata of this dataset:
 | **Temporal Resolution**  | `16-day composite` (23 data points per year)                                                                                                                                |
 | **Spectral Bands**       | `BAND13`, `BAND14`, `BAND15`, `BAND16`                                                                                                                                   |
 | **Spectral Indices**     | `EVI`,`NDVI`                                                                                                                                                       |
-| **Land Cover Classes**   | `Cerrado`, `Fallow_Cotton`, `Forest`, `Millet_Cotton`, `Pasture`, `Soy_Corn`, `Soy_Cotton`, `Soy_Fallow`, `Soy_Millet`                         |
+| **Land Cover Classes**   | `Cerradao`, `Cerrado`, `Cropland`, `Pasture`                         |
 | **Reference**            | Karine Ferreira, Gilberto Queiroz, et al., *“Earth Observation Data Cubes for Brazil: Requirements, Methodology and Products”*. Remote Sensing, 12, 4033, 2020. [Access Link](https://doi.org/10.3390/rs12244033)                                               |
 | **License**              | <img style="display: inline-block; vertical-align: middle; margin-right: 5px;" src="./inst/extdata/licenses/by.png" alt="CC BY Icon" width="70">[Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)                                                                                |
 
@@ -207,7 +207,7 @@ The following table presents the metadata of this dataset:
 | **Temporal Resolution**  | `16-day composite` (29 data points per year)                                                                                                                                |
 | **Spectral Bands**       | `B02`, `B03`, `B04`, `B08`, `B8A`, `B11`, `B12`                                                                                                                                   |
 | **Spectral Indices**     | `NDVI`, `EVI`, `NBR`                                                                                                                                                       |
-| **Land Cover Classes**   | `Burned_Area`, `Forest`, `Highly_Degraded`, `Cleared_Area`                         |
+| **Land Cover Classes**   | `Burned_Area`, `Cleared_Area`, `Forest`, `Highly_Degraded`                         |
 | **Reference**            | *SITS* [Access Link](https://e-sensing.github.io/sitsbook/index.html)                                               |
 | **License**              | <img style="display: inline-block; vertical-align: middle; margin-right: 5px;" src="./inst/extdata/licenses/by.png" alt="CC BY Icon" width="70">[Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)                                                                                |
 
